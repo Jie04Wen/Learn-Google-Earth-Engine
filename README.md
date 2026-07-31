@@ -1,5 +1,10 @@
 # GEE 从零入门全套课程包
 
+Google Earth Engine Guides: https://developers.google.cn/earth-engine/guides
+Google Earth Engine Reference: https://developers.google.cn/earth-engine/apidocs
+Google Earth Engine Data Catalog: https://developers.google.cn/earth-engine/datasets
+Google Earth Engine Data Tutorials: https://developers.google.cn/earth-engine/tutorials
+
 ## 文件说明
 
 - `GEE从零入门全套教学手册.docx`：可发布、可继续编辑的 Word 教学手册。
