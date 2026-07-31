@@ -1,4 +1,4 @@
-# GEE 从零入门全套课程包
+# GEE 从零入门课程包
 
 - Google Earth Engine Guides: https://developers.google.cn/earth-engine/guides
 - Google Earth Engine Reference: https://developers.google.cn/earth-engine/apidocs
