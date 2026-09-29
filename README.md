@@ -7,8 +7,7 @@
 
 ## 文件说明
 
-- `GEE从零入门全套教学手册.docx`：可发布、可继续编辑的 Word 教学手册。
-- `GEE从零入门全套教学手册.md`：完整 Markdown 源稿，已嵌入全部课程代码。
+- `GEE从零入门全套教学手册.md`：完整 Markdown。
 - `Code/01_基础语法与几何.js`：print、几何与矢量可视化。
 - `Code/02_四大核心数据结构.js`：Geometry、Feature、FeatureCollection、Image、ImageCollection。
 - `Code/03_筛选预处理与指数.js`：筛选、去云、镶嵌、裁剪、五类指数与统计。
